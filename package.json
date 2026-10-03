@@ -1,0 +1,33 @@
+{
+  "name": "react-mangosteen-1",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "dev": "vite",
+    "build": "tsc && vite build --base=/react-mangosteen-1-preview/",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-spring/web": "9.7.5",
+    "classnames": "2.5.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.30.6",
+    "sass": "1.105.1",
+    "styled-components": "6.5.3"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "0.27.0",
+    "@types/react": "18.3.31",
+    "@types/react-dom": "18.3.7",
+    "@types/styled-components": "5.1.36",
+    "@vitejs/plugin-react": "6.1.1",
+    "eslint": "8.25.0",
+    "typescript": "6.0.3",
+    "unocss": "66.10.5",
+    "vite": "8.3.1"
+  }
+}
