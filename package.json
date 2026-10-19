@@ -20,7 +20,7 @@
     "styled-components": "6.5.3"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "0.27.0",
+    "@antfu/eslint-config": "9.5.1",
     "@types/react": "18.3.31",
     "@types/react-dom": "18.3.7",
     "@types/styled-components": "5.1.36",
